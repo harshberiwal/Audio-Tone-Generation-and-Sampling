@@ -1,0 +1,6 @@
+../source/DMA.c:28:6:Init_DMA_For_Playback	8	static
+../source/DMA.c:54:6:Start_DMA_Playback	0	static
+../source/DMA.c:66:6:update_DMA_source	0	static
+../source/DMA.c:71:9:cycle_check	0	static
+../source/DMA.c:75:6:reset_current_cycle	0	static
+../source/DMA.c:79:6:DMA0_IRQHandler	8	static
